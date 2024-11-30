@@ -2,6 +2,12 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+#nombre{
+  font-weight: 700;
+  color: #dad8df;
+  font-size: 1.2em;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -37,3 +43,4 @@ body {
   }
 
 }
+
